@@ -36,3 +36,24 @@
     transform: rotate(360deg);
   }
 }
+
+.heading {
+  margin: 15px 0;
+  font-size: 2rem;
+  font-weight: 600;
+  color: black;
+  text-transform: uppercase;
+  margin-bottom: 1rem;
+}
+
+.header_head {
+  display: flex;
+  justify-content: space-between;
+  margin: 10px;
+}
+
+.tripleBar {
+  margin: 20px;
+  /* font-size: 40px; */
+}
+

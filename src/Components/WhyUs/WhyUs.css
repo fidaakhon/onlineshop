@@ -1,0 +1,42 @@
+.whyus_card_img img{
+    width: 70px;
+    height: 40px;
+    color: blue;
+    margin-bottom: 10px;
+}
+.whyus {
+    margin: 50px 40px;
+}
+.whyus_header h2{
+    text-align: center;
+    margin-bottom: 20px;
+    font-weight: 700;
+}
+.whyus_container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.whyus_body {
+    width: 300px;
+    background-color: #f9f8f7;
+    padding: 20px 10px;
+    margin: 10px;
+}
+
+.whyus_card p {
+    font-size: 14px;
+}
+.whyus_card h6 {
+    font-weight: 600;
+}
+
+@media screen and (max-width: 768px) {
+    .whyus_container {
+        flex-direction: column;
+    }
+    .whyus_body {
+        width: 100%;
+    }
+    
+} 
