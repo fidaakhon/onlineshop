@@ -46,7 +46,7 @@
 
 @media screen and (max-width: 768px) {
     .testimonial {
-        margin: 20px 15px;
+        margin: 80px 10px;
         width: 90%;
     }
     .testimonial_heading h3 {
@@ -63,13 +63,13 @@
     }
     .car .carousel-control-prev {
         margin-left: 110px;
-        margin-top: 360px;
+        margin-top: 310px;
         height: 50px;
         width: 35px;
     }
     .car .carousel-control-next {
         margin-right: 110px;
-        margin-top: 360px;
+        margin-top: 310px;
         height: 50px;
         width: 35px;
     }
