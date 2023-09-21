@@ -75,7 +75,7 @@
 @media screen and (max-width: 768px) {
     .flex2_container {
         flex-direction: column;
-        margin: 20px 15px;
+        margin: 20px 0px;
         border-radius: 15px;
     }
     .flex2_img {
