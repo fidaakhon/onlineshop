@@ -34,6 +34,7 @@
 @media screen and (max-width: 768px) {
     .whyus_container {
         flex-direction: column;
+        margin: 0;
     }
     .whyus_body {
         width: 100%;
