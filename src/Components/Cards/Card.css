@@ -105,11 +105,13 @@
     .card_body {
         display: flex;
         flex-wrap: wrap;
-        justify-content: space-between;
+        justify-content: center;
         /* margin-bottom: 30px; */
-        width: 100vw;
-        margin-left: -5.2vw;
+        /* width: 100vw; */
+        /* margin-left: -5.2vw; */
         /* margin: 10px 15px; */
+        margin: 0;
+        box-sizing: border-box;
     }
     .card1 {
         background-color: #dfdada;
@@ -121,8 +123,6 @@
         display: flex;
         justify-content: space-between;
         margin-top: 5%;
-        margin-right: 10px;
-        margin-left: 10px;
     }
     .add_to_cart {
         background-color: #f16179;
