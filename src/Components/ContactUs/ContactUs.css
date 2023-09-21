@@ -48,7 +48,8 @@ textarea {
 @media screen and (max-width: 768px) {
     .contactContainer2 {
         flex-direction: column;
-        margin: 10px 15px 30px 15px;
+/*         margin: 10px 15px 30px 15px; */
+        margin: 0;
     }
 
     .map_container {
