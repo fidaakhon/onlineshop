@@ -110,7 +110,7 @@
         /* width: 100vw; */
         /* margin-left: -5.2vw; */
         /* margin: 10px 15px; */
-        margin: 0;
+       margin: 0px 0px 0px 15px;
         box-sizing: border-box;
     }
     .card1 {
